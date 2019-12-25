@@ -18,7 +18,7 @@
 
 <h5>pyAudio:</h5>
 <p>PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library.</p>
-<p>Note: if installtion for pyaudio fails then download pyaudio file from https://www.lfd.uci.edu/~gohlke/pythonlibs/ as per version of python to your project folder and run pip install pyAudio.</p>
+<p>Note: if installation for pyaudio fails then download pyaudio file from https://www.lfd.uci.edu/~gohlke/pythonlibs/ as per version of python to your project folder and run pip install pyAudio.</p>
 
 <h5>gTTS:</h5>
 <p>gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API.</p>
